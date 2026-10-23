@@ -1,0 +1,14 @@
+## Screenshots - Fetch API
+
+### Lab Exercise 3
+
+### Get Request
+![My Image](screenshots/GETrequest.png)
+
+### Post Request
+![My Image](screenshot/POSTrequest.png)
+
+### Guide Questions
+Answer the following in a text file named fetch-answers.txt:
+
+[View xhr-answers.txt](xhr-answers.txt)
