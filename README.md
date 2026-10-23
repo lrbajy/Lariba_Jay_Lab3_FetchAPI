@@ -6,7 +6,7 @@
 ![My Image](screenshots/GETrequest.png)
 
 ### Post Request
-![My Image](screenshot/POSTrequest.png)
+![My Image](screenshots/POSTrequest.png)
 
 ### Guide Questions
 Answer the following in a text file named fetch-answers.txt:
